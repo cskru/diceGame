@@ -138,7 +138,7 @@ i {
     transition: margin 0.3s;
 }
 
-.btn-new { top: 45px;}
+.btn-new { top: 60px;}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
 
@@ -155,7 +155,7 @@ i {
 .winner .player-name { font-weight: 300; color: #EB4D4D; }
 
 .a-rules {
-    top: 40px;
+    top: 15px;
     background-color: rgba(235, 77, 77, 0.85);
     color: white;
     padding-top: 5px;
